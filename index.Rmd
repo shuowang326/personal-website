@@ -37,3 +37,6 @@ B.Sc. in Environmental and Economic Policy | September 2013 - Jun 2016
 
 **Chinese Academy of Financial Inclusion** | Associate Researcher | May 2019 - Jun 2021
 
+usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
+usethis::use_github()
+
